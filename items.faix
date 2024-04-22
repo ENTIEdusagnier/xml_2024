@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="1">
+		<name>Backpack</name>
+		<type value="wearable" />
+        <rareness value="10" />
+	</item>
+	
+	<item id="2">
+		<name>Bread</name>
+		<type value="food" />
+		<rareness value="5" />
+	</item>
+
+    <item id="3">
+	     <name>pen</name>
+	     <type value="object"/>
+	     <rareness value="11" />
+	</item>
+	
+</items>
