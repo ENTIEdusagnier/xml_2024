@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?> 
+<characters_items>
+	<character_item id="1">
+		<character id="1" />
+		<item id="1" quantity="3"/>
+	</character_item>
+</characters_items>
