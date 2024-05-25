@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<weapons>
+
+	<weapon id="1">
+		<name>Puños<name>
+		<type>Melee</type>
+		<damage value="4" />
+		<level value="2" />
+	</weapon>
+
+	<weapon id="2">
+		<name>SPAS-12<name>
+		<type>Escopeta</type>
+		<damage value="100" />
+		<level value="50" />
+	</weapon>
+
+	<weapon id="3">
+	    <name>Extensible<name>
+		<type>Melee</type>
+		<damage value="15" />
+		<level value="5" />
+	</weapon>
+
+	
+	<weapon id="4">
+		<name>Puños<name>
+        <type>Melee</type>
+		<damage value="4" />
+		<level value="2" />
+	</weapon>
+
+
+</weapons>
